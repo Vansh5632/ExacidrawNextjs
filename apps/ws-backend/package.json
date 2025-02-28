@@ -13,7 +13,9 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "@repo/typescript-config": "workspace*"
+    "@repo/typescript-config": "workspace:*",
+    "@types/ws": "^8.5.14",
+    "ws": "^8.18.1"
   },
   "keywords": [],
   "author": "",
